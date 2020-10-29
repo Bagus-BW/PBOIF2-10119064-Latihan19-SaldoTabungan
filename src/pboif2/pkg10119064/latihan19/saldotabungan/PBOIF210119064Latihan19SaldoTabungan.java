@@ -7,7 +7,6 @@ package pboif2.pkg10119064.latihan19.saldotabungan;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
-import java.util.Scanner;
 
 /**
  *
